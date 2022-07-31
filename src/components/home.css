@@ -1,0 +1,122 @@
+.main3 {
+    text-align: center;
+  justify-content: center;
+  display: flex;
+  height: 100vh;
+  background-color:rgb(3, 3, 51);
+  color:cornflowerblue;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.btn2 {
+    background-color: rgb(11, 84, 219);
+    color: white;
+    width: 10vh;
+    border-radius: 10px;
+}
+
+p {
+    color: black;
+    font-size: smaller;
+}
+
+button2 {
+    margin-top: -30px;
+    font-size: 30px;
+  }
+
+  button5 {
+    margin-top: -30px;
+    margin-right: 300px;
+    font-size: 30px;
+  }
+  
+  button7 {
+        margin-top: 150px;
+        font-size: 350px;
+        margin-right: 150px;
+  }
+
+  button4 {
+    text-align: center;
+  background-color: rgb(3, 3, 51);
+  color: white;
+  font-size: large;
+  border-color: white;
+  box-shadow: white;
+  border: 1px solid white;
+  width: 150px;
+  }
+
+  .box {
+    box-sizing: border-box;
+    display: flex;
+    width: 350px;
+    height: 50px;
+    margin: 20px;
+    justify-content: space-around;
+  }
+
+  button3 {
+    position: relative;
+    text-align: center;
+    width: 150px;
+  height: 40px;
+  background-color: rgba(187, 255, 0, 0.979);
+  color: black;
+  font-size: large;
+  border-color: black;
+  padding-bottom: 10px;
+  margin-bottom: 40px;
+  }
+
+  .sub-main4 {
+    display: flex;
+    justify-content: center;
+    height: 82%;
+    width: 100%;
+    padding-top: 20px;
+    background-color: rgb(3, 3, 51);
+    text-align: center;
+    margin-top: 75px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+.sub-main3 {
+    display: flex;
+    justify-content: center;
+    height: 60vh;
+    width: 70vh;
+    padding-top: 20px;
+    background-color: rgb(3, 3, 51);
+    text-align: center;
+    margin-top: 150px;
+    margin-right: 190px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+h13 {
+    color: white;
+    text-align: center;
+    margin-right: 300px;
+}
+  h12 {
+    size: 20%;
+  }
+  h8 {
+    font-size: 60px;
+  }
+
+  h9 {
+    font-size: 60px;
+    color: gold;
+  }
+
+  h10 {
+    font-size: 15px;
+  }
+
+  h11 {
+    font-size: 15px;
+    color: gold;
+  }
